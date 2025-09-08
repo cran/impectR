@@ -1,0 +1,24 @@
+Package: impectR
+Title: Access Data from the Impect API
+Version: 2.4.3
+Authors@R: c(
+  person("Impect", "GmbH", , "info.impect@impect.com", role = c("cph")),
+  person("Florian", "Schmitt", , "florian.schmitt@impect.com", role = c("aut", "cre")),
+  person("Thomas", "Walentin", , "thomas.walentin@impect.com", role = c("ctb"))
+  )
+Maintainer: Florian Schmitt <florian.schmitt@impect.com>
+Description: Pull data from the 'Impect' Customer API <https://glossary.impect.com/api-design>. The package can retrieve data such as events or match sums.
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+Imports: dplyr, httr, jsonlite, purrr, tidyr, utils, methods, tibble,
+        rlang
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+NeedsCompilation: no
+Packaged: 2025-09-02 06:51:41 UTC; flo
+Author: Impect GmbH [cph],
+  Florian Schmitt [aut, cre],
+  Thomas Walentin [ctb]
+Repository: CRAN
+Date/Publication: 2025-09-08 18:40:17 UTC
