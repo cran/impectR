@@ -1,6 +1,6 @@
 Package: impectR
-Title: Access Data from the Impect API
-Version: 2.4.3
+Title: Access Data from the 'Impect' API
+Version: 2.5.1
 Authors@R: c(
   person("Impect", "GmbH", , "info.impect@impect.com", role = c("cph")),
   person("Florian", "Schmitt", , "florian.schmitt@impect.com", role = c("aut", "cre")),
@@ -16,9 +16,9 @@ Imports: dplyr, httr, jsonlite, purrr, tidyr, utils, methods, tibble,
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2025-09-02 06:51:41 UTC; flo
+Packaged: 2025-10-15 12:59:24 UTC; flo
 Author: Impect GmbH [cph],
   Florian Schmitt [aut, cre],
   Thomas Walentin [ctb]
 Repository: CRAN
-Date/Publication: 2025-09-08 18:40:17 UTC
+Date/Publication: 2025-10-15 14:10:02 UTC

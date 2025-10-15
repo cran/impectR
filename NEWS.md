@@ -1,3 +1,23 @@
+# impectR 2.5.1
+
+## Minor Changes
+* fix bugs with new coaches data that occured when a match has no coaches data
+
+# impectR 2.5.0
+
+## Major Changes
+* Use new endpoints to drastically improve performance of `getPlayerMatchScores()` and `getPlayerIterationScores()`. The argument `positions` is no longer required. If it is not spplied the function defaults to the new endpoints and returns all unique player-position-squad combinations.
+* Add coaches ot the following functions:
+  * `getEvents()`
+  * `getPlayerMatchSums()`
+  * `getSquadMatchSums()`
+  * `getPlayerMatchScores()`
+  * `getSquadMatchScores()`
+* Add function `getSquadCoefficients()` to retrieve detailed model coefficients to enable match predictions
+
+## Minor Changes
+* Minor fixes to enable CRAN submission
+
 # impectR 2.4.3
 
 ## Minor Changes
