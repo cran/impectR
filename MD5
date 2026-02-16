@@ -1,7 +1,7 @@
-59532a1ea87be21a7f7b5a86d029f6e0 *DESCRIPTION
+c840251634c13e8855de5516dfaf5c13 *DESCRIPTION
 b6fd9a1ed369d40f1a82f9194cb020cf *LICENSE
 fd1702de26e5afb60a27215728fcdd34 *NAMESPACE
-7e4b4532e6745970b97b8e159a91ce55 *NEWS.md
+927db3552c71bb441e3a2927695f6f80 *NEWS.md
 46c4ab9f6c09c82d615799bbead8e528 *R/getAccessToken.R
 a958991781e2437145986beb7f39d080 *R/getEvents.R
 b20873bcc98f1bd60dd3ddcf26e6ecf5 *R/getFormations.R
@@ -22,7 +22,7 @@ c37ae84f5976960a2a702f7871b0fba8 *R/getSquadMatchScores.R
 9f12f338ffc82b6db366eb016834855d *R/getStartingPositions.R
 250054e5dfe1a34680f6f3a08d98dd77 *R/getSubstitutions.R
 7228cf66d1f44b919f2ddb370246c86b *R/utils.R
-8c4e31afdfb65c50e8831adbcd3391c4 *README.md
+6b69d277dbcc50e96fe421c53b771ab0 *README.md
 fc30b430adb65a10e879f6ab4d7425ae *man/TokenBucket-class.Rd
 debb8659608c9c5d8ae7b3db2b6c6286 *man/getAccessToken.Rd
 113ee57e7dc34137c717d90e6ce876be *man/getEvents.Rd
