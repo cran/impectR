@@ -1,7 +1,7 @@
-958e4d612135eddcf34b942050040304 *DESCRIPTION
+7c4eeb03fba623f16a51f158ebc6d956 *DESCRIPTION
 b6fd9a1ed369d40f1a82f9194cb020cf *LICENSE
-fe63ddc67f85e19c55487763d209bae0 *NAMESPACE
-322cae758265af47bcc070fafc9eab2a *NEWS.md
+d609d5d23e3dbbcd94305e6fb9c8ce01 *NAMESPACE
+78c85b0637590cd2cd7a6000d0d5c384 *NEWS.md
 46c4ab9f6c09c82d615799bbead8e528 *R/getAccessToken.R
 3c95b7f33bd92aa9e7b0aa3cf278474c *R/getData.R
 1591ad324f134acf646f8dccb9630f90 *R/getEvents.R
@@ -14,6 +14,7 @@ af4e77bb7ec71be1edff9a3d167074cb *R/getPlayerIterationScores.R
 b9e902da6adbd84c0a243c76a0b201ce *R/getPlayerMatchScores.R
 9fbe3ad97a8ad06f1694a3ae3e8be5cf *R/getPlayerMatchsums.R
 660e2bddf4305bcb26a8b5979b80360b *R/getPlayerProfileScores.R
+a6605549dc2504cb16ff64992bc3025d *R/getSeasonSimulations.R
 a806518818d83cfa002c5d1ccb99b459 *R/getSetPieces.R
 919ea38609ec1e30b81e9360e8672e3a *R/getSquadCoefficients.R
 cba996847c0f55e2a8c2ecaaf1b954a9 *R/getSquadIterationAverages.R
@@ -27,7 +28,7 @@ c63e00f49941e43e5f8bb46d80b3b247 *R/getSquadRatings.R
 250054e5dfe1a34680f6f3a08d98dd77 *R/getSubstitutions.R
 599d7966fb08f0846103424e4c8616f8 *R/getVideoClips.R
 f7f0e5245c197d83acaf1a9c6b537067 *R/utils.R
-197286e4d67d71b49c7757da16455cc6 *README.md
+08efbf8155ca343f207e5857cb77b2ee *README.md
 fc30b430adb65a10e879f6ab4d7425ae *man/TokenBucket-class.Rd
 debb8659608c9c5d8ae7b3db2b6c6286 *man/getAccessToken.Rd
 739402c9cb6bacc59afa279fb87a223e *man/getData.Rd
@@ -41,6 +42,7 @@ b62a3172cd9728444bf596563e9e7f0e *man/getPlayerIterationAverages.Rd
 f4cb4dc4e3cb8533fe148c9c81268a29 *man/getPlayerMatchScores.Rd
 a09946b73bc921e233bee40d1e416cac *man/getPlayerMatchsums.Rd
 ae2c856446d06f272e2939f980820d9b *man/getPlayerProfileScores.Rd
+a21085e57b1ac6430ceca70493c8b0a4 *man/getSeasonSimulations.Rd
 73bc43da2d8e859ab2249388225c10a8 *man/getSetPieces.Rd
 50ef8f894353af31922ab5ecd06c291d *man/getSquadCoefficients.Rd
 e133d44c102dccf17a2ccd0a0af169cc *man/getSquadIterationAverages.Rd
